@@ -2,8 +2,8 @@ class MkdTools < Formula
   desc "Read, search, and export Monokakido dictionaries"
   homepage "https://github.com/kiwakiwaa/mkd-tools"
   url "https://github.com/kiwakiwaa/mkd-tools.git",
-      tag:      "v0.9.0",
-      revision: "ec2025e3a7fedbb9d0af4afc930e9118669c55be"
+      tag:      "v0.10.0",
+      revision: "02ac2e7eef3f949483e4ccb1be62f5c17b9c053e"
   license "GPL-3.0-only"
 
   depends_on "cmake" => :build
